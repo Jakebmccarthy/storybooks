@@ -1,0 +1,15 @@
+{
+  "name": "storybooks",
+  "version": "1.0.0",
+  "description": "app to share public or write private stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jake McCarthy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  }
+}
